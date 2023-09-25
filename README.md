@@ -4,8 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desarrollador web Full Stack Developer | Javascript | React JS | Redux.js | Node JS | PostgreSQL
 ------------------------------------------------------------------------------------------------
 
-* 🌍  Soy Jeremias Mingolla, soy de Argentina Córdoba Capital
-* ✉️  You can contact me at [jeremingolla03@gmail.com](mailto:jeremingolla03@gmail.com)
+👋 ¡Hola! Soy Jeremías Mingolla, un apasionado desarrollador web Full Stack con sede en Córdoba Capital, Argentina. Mi experiencia abarca una amplia gama de tecnologías, desde el lado del cliente hasta el lado del servidor. 💻 Soy un experto en JavaScript y estoy familiarizado con frameworks populares como React JS y Redux.js, lo que me permite crear experiencias web interactivas y eficientes. Además, mi conocimiento de Node JS y PostgreSQL me permite desarrollar aplicaciones web robustas y escalables.
+
+🚀 Soy conocido por mi enfoque proactivo y mi capacidad para enfrentar desafíos técnicos con determinación. Siempre estoy dispuesto a aprender y mejorar mis habilidades, lo que me convierte en un recurso valioso en cualquier equipo de desarrollo. Puedes ponerte en contacto conmigo a través de ✉️ jeremingolla03@gmail.com .
+
+Además, soy una persona socialmente activa en línea, por lo que puedes seguirme en mis perfiles de redes sociales, incluyendo:
+
+GitHub: GitHub/Mjeremias03 🐙
+Instagram: Instagram/ jeremingolla📷
+LinkedIn: LinkedIn/Jeremías Mingolla 💼
+¡Espero conectarme contigo! 😊
 
 ### Skills
 
