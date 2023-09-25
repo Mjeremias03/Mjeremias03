@@ -10,7 +10,6 @@ Desarrollador web Full Stack Developer | Javascript | React JS | Redux.js | Node
 
 Además, soy una persona socialmente activa en línea, por lo que puedes seguirme en mis perfiles de redes sociales, incluyendo:
 
-GitHub: GitHub/Mjeremias03 🐙
 Instagram: Instagram/ jeremingolla📷
 LinkedIn: LinkedIn/Jeremías Mingolla 💼
 ¡Espero conectarme contigo! 😊
